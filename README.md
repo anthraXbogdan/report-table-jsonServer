@@ -3,6 +3,6 @@ Resource provider for "report-table" project
 
 Instructions for starting the server:
 </br>
-$ npm install
+_$ npm install_
 </br>
-$ json-server index.js -p 3004
+_$ json-server index.js -p 3004_
