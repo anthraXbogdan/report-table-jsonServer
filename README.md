@@ -5,4 +5,4 @@ Instructions for starting the server:
 </br>
 _$ npm install_
 </br>
-_$ json-server index.js -p 3004_
+_$ json-server index.js -p 3004_--delay 3000
